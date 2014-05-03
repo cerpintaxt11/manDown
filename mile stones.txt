@@ -1,0 +1,7 @@
+'Dash
+'weapon variations
+'fix Bullet intantiation
+'Implement laser for weapon
+'create shield pick up
+'add sound
+'melee
